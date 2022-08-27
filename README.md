@@ -1,3 +1,3 @@
 # Design-and-Analysis-of-Algorithms
-This repository is about the homework of the course Algorithm Analysis and Design in Junior year.
+This repository is about the homework of the course Algorithm Analysis and Design in Junior year.\n
 Taught by Prof Duan
